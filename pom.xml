@@ -38,7 +38,7 @@
     <wiremock.version>3.3.1</wiremock.version>
     <keycloak.version>26.0.8</keycloak.version>
     <mapstruct.version>1.5.5.Final</mapstruct.version>
-    <guava.version>33.1.0-jre</guava.version>
+    <guava.version>33.7.1-jre</guava.version>
     <resteasy.version>6.2.7.Final</resteasy.version>
     <cyclonedx-maven-plugin.version>2.7.10</cyclonedx-maven-plugin.version>
     <sonar.coverage.exclusions>
